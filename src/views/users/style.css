@@ -1,0 +1,13 @@
+.card {
+    height: 100%;
+}
+.searchInput {
+    width: 300px;
+}
+.searchRow {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.formLabel {
+    height: 300px;
+}
